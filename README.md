@@ -17,9 +17,9 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/basmala-mohamad/" target="_blank"><img src="https://img.shields.io/badge/-Basmala%20Mohamad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/basbasamohamed/"><img src="https://img.shields.io/badge/-Basmala%20Mohamad-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="basmala20191700182@cis.asu.edu.eg"><img src="https://img.shields.io/badge/-Basmala%20Mohamad-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/saleh-naguib-3545b3246" target="_blank"><img src="https://img.shields.io/badge/-Saleha%20Naguib-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/saleh.mohmed.5201"><img src="https://img.shields.io/badge/-Saleha%20Naguib-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="salehna134@gmail.com"><img src="https://img.shields.io/badge/-Saleha%20Naguib-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
