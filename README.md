@@ -28,14 +28,16 @@
 
 ### 🛠 &nbsp;Tech Stack 🛠
 ![Cs](https://img.shields.io/badge/-C%20sharp%20-05122A?style=flat&logo=dot-net)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![.Net](https://img.shields.io/badge/-ASP.NET%20core-blueviolet)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)&nbsp;
+![Cpp](https://img.shields.io/badge/-C++-blue?logo=cplusplus)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
