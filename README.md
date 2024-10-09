@@ -8,14 +8,20 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=.Net%20Back-End%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00DF67&vCenter=true&size=22"></a>
-</p>  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=CS%20Student;Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00DF67&vCenter=true&size=22"></a>
+</p> 
 
-- 🏢 I'm a .Net Back-End Developer
-- 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.
-- 💬 Ask me about my experience with Csharp, HTML, CSS, Javascript, or anything related to web development.
+ <p>-👨‍🎓 I’m currently a student in <strong>Faculty of Electronic Engineering</strong><p>
+ <p>-💻 I’m currently working on several projects like <strong>E-Commerce using MVC</strong> and <strong>RESTful API Projects</strong></p>
+ <p>- 🏢 I'm a .Net Back-End Developer</p>
+ <p>- 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.<p>
 
-  </div>
+ <div align="right">
+ <a  align="right" href="https://komarev.com/ghpvc/?username=SalehNaguib&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=SalehNaguib&style=for-the-badge">
+ </a>
+<div align="left">
+  
 ## 💌 Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:salehna134@gmail.com)](mailto:salehna134@gmail.com)
 <a href="https://www.linkedin.com/in/saleh-naguib-3545b3246" target="_blank"><img src="https://img.shields.io/badge/-Saleh%20Naguib-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -45,6 +51,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalehNaguib&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=SalehNaguib&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=SalehNaguib&style=for-the-badge">
-</a>
+<br>
+
