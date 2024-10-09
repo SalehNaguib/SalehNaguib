@@ -12,7 +12,6 @@
 </p> 
 
  <p>-👨‍🎓 I’m currently a student in <strong>Faculty of Electronic Engineering</strong><p>
- <p>-💻 I’m currently working on several projects like <strong>E-Commerce using MVC</strong> and <strong>RESTful API Projects</strong></p>
  <p>- 🏢 I'm a .Net Back-End Developer</p>
  <p>- 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.<p>
 
